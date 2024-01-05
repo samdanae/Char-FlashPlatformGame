@@ -1,7 +1,8 @@
 repo_name: samdanae/Char-FlashPlatformGame
 report_id: f6c619644b054172e05e2f1ac7219d8b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T02:44:01+00:00'
+timestamp: '2024-01-05T09:03:29+00:00'
 requested_by: farhin00farhin
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/samdanae/Char-FlashPlatformGame
   detection_source: Repo Metadata
